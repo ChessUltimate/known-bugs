@@ -38,4 +38,6 @@
 
 -Jester tutorial glitched sometimes.
 
+-Giant tutorial glitched sometimes.
+
 -Bot dificulty might be scaled improperly.
