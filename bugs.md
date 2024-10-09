@@ -1,4 +1,4 @@
-****I'm sorry for server interuptions during bug fixes***
+***I'm sorry for server interuptions during bug fixes***
 
 -Games will have desyncs until updates are pushed.
 
