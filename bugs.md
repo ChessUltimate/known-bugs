@@ -2,8 +2,6 @@
 
 -Account linking currently isnt working.
 
--The Giant Crashes the game in blind pick when on team 2 and next to the edge of the board. otherwise it places it in the wrong spot.
-
 -Connections not properly terminated.
 
 -Random disconnects.
