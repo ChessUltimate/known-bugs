@@ -1,4 +1,4 @@
--The Devil is currently broken and will be temperarily disabled.
+-A bug with Goop and Angel Interaction
 
 -Account linking currently isnt working.
 
