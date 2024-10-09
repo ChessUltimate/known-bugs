@@ -34,8 +34,6 @@
 
 -Sniper can shoot through Goop sometimes...
 
--Some users are getting spammed failed to start game.
-
 -Jester tutorial glitched sometimes.
 
 -Giant tutorial glitched sometimes.
