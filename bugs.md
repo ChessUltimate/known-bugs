@@ -1,5 +1,7 @@
 ***I'm sorry for server interuptions during bug fixes***
 
+-Sludge/Devil interaction is broken.
+
 -Games will have desyncs until updates are pushed.
 
 -Account linking currently isnt working.
