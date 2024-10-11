@@ -12,10 +12,6 @@
 
 -Random disconnects.
 
--Desyncs with Ghost sometimes.
-
--Game froze with Parasite taking Copy Cat.
-
 -Copy Cat Clone didn't apply skin
 
 -After unlocking from team builder didn't unlock properly
