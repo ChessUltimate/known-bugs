@@ -2,8 +2,6 @@
 
 -Poor performance on some mobile devices.
 
--Bishop (rabbi skin) doesnt knock-out client side.
-
 -Sludge/Devil interaction is broken.
 
 -Games will have desyncs until updates are pushed.
