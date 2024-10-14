@@ -2,8 +2,6 @@
 
 -Poor performance on some mobile devices.
 
--Sludge/Devil interaction is broken.
-
 -Games will have desyncs until updates are pushed.
 
 -Account linking currently isnt working.
@@ -13,8 +11,6 @@
 -Copy Cat Clone didn't apply skin
 
 -After unlocking from team builder didn't unlock properly
-
--Mage swap Giant didn't knock-out (client side only, still functioned on server)
 
 -Checker king forced move failed after capture (client reconnect fixes it)
 
