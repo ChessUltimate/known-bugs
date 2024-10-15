@@ -4,8 +4,6 @@
 
 -Games will have desyncs until updates are pushed.
 
--Account linking currently isnt working.
-
 -Random disconnects.
 
 -Copy Cat Clone didn't apply skin
