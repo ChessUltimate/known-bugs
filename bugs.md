@@ -6,6 +6,8 @@
 
 -Mage/Copy Cat interaction.
 
+-Clicking on a character when its about to move causing a desync.
+
 -Inaccurate score board.
 
 -Games will have desyncs until updates are pushed.
