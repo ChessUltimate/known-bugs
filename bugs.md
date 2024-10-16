@@ -2,6 +2,12 @@
 
 -Poor performance on some mobile devices.
 
+-Pinned checker with forced move will cause a desync.
+
+-Mage/Copy Cat interaction.
+
+-Inaccurate score board.
+
 -Games will have desyncs until updates are pushed.
 
 -Random disconnects.
