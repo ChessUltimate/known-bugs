@@ -1,7 +1,5 @@
 ***I'm sorry for server interuptions during bug fixes***
 
--Poor performance on some mobile devices.
-
 -Pinned checker with forced move will cause a desync.
 
 -Stalemate recorded as a Checkmate.
