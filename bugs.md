@@ -1,9 +1,5 @@
 ***I'm sorry for server interuptions during bug fixes***
 
--Pinned checker with forced move will cause a desync.
-
--Stalemate recorded as a Checkmate.
-
 -Mage/Copy Cat interaction.
 
 -Timer issues (going to switch to a different time variation soon).
