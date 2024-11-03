@@ -2,8 +2,6 @@
 
 --Please report bugs to the Chess Ultimate discord! Thank you--
 
--Some tutorials are bugged.
-
 -Checker king forced move failed after capture (client reconnect fixes it)
 
 -Sometimes scale of characters are very large in pot (team builder) and take up the entire island making it all shadow. (you can back out of the team builder and it will fix)
