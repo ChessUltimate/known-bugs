@@ -2,6 +2,8 @@
 
 --Please report bugs to the Chess Ultimate discord! Thank you--
 
+-Resolution change not working until game restart.
+
 -Replays don't work with enemy ghosts and I will be rehauling the system a bit.
 
 -Checker king forced move failed after capture
