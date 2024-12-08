@@ -2,4 +2,4 @@
 
 --Please report bugs to the Chess Ultimate discord! Thank you--
 
--Bot doing perpetual checks.
+-Checks with the Minion causes the check indicator to appear on all enemy characters.
