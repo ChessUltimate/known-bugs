@@ -4,4 +4,8 @@
 
 -Account linking is currently broken and will be fixed soon.
 
+-Frozen Sludge invisible.
+
+-Checker/Penguin interaction.
+
 -Checks with the Minion causes the check indicator to appear on all enemy characters.
