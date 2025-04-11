@@ -4,4 +4,4 @@
 
 -Checks with the Minion causes the check indicator to appear on all enemy characters.
 
--Giant/Penguin interaction causes Giant to be frozen indefinitely.
+-Giant/Penguin interaction causes Giant to be frozen indefinitely (fixed in 4.861).
