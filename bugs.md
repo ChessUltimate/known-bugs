@@ -5,3 +5,5 @@
 -Checks with the Minion causes the check indicator to appear on all enemy characters.
 
 -Giant/Penguin interaction causes Giant to be frozen indefinitely (fixed in 4.861).
+
+-Issue with messages writing lines backwards numbers and symbols writing incorrectly. (fixed in 4.862 waiting on 4.861 approval to push on mobile)
