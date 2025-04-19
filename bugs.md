@@ -10,4 +10,8 @@
 
 -Opening a menu while in draft pick sometimes doesnt let you submit team.
 
+-Copycat/Goop bug.
+
+-vs.Cpu bugs.
+
 -Issue with messages writing lines backwards numbers and symbols writing incorrectly. (fixed in 4.862 waiting on 4.861 approval to push on mobile)
