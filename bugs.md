@@ -2,16 +2,8 @@
 
 --Please report bugs to the Chess Ultimate discord! Thank you--
 
--Checks with the Minion causes the check indicator to appear on all enemy characters.
+-There are so many bugs and its hard to maintain the list here. I'm working as hard as I can to fix them all ASAP!
 
--Giant sometimes disappearing when attacking Goops.
+-As for the "Someone logged into your account" bug you are not being hacked its just that your game holds the same connection id and a conflict arises. (hopeful;y will be fixed by june 18)
 
--Angel+Angel bug.
-
--Opening a menu while in draft pick sometimes doesnt let you submit team.
-
--Copycat/Goop bug.
-
--vs.Cpu bugs.
-
--Issue with messages writing lines backwards numbers and symbols writing incorrectly. (fixed in 4.862 waiting on 4.861 approval to push on mobile)
+-I'm currently working on the duplication character bug and am planning to do a server maintenance today or tomorrow. (again if these bugs occur they are not hacking it is my fault and I'm sorry.)
