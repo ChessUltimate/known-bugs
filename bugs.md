@@ -1,6 +1,6 @@
 ***I'm sorry for server interuptions during bug fixes***
 
---Please report bugs to the Chess Ultimate discord! Thank you--
+--Please report bugs via the Match History red exclamation mark button or if it isn't replay related to the Chess Ultimate discord! Thank you--
 
 -There are so many bugs and its hard to maintain the list here. I'm working as hard as I can to fix them all ASAP!
 
