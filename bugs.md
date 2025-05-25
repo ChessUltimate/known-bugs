@@ -1,9 +1,9 @@
 ***I'm sorry for server interuptions during bug fixes***
 
+-DONT PLAY AGAINST CPU! (sorry last update i pushed makes the game crash or it just forfeits right away) fix will be in the next update around June 4th.
+
 --Please report bugs via the Match History red exclamation mark button or if it isn't replay related to the Chess Ultimate discord! Thank you--
 
 -There are so many bugs and its hard to maintain the list here. I'm working as hard as I can to fix them all ASAP!
 
 -As for the "Someone logged into your account" bug you are not being hacked its just that your game holds the same connection id and a conflict arises. (hopefully will be fixed by june 18)
-
--I'm currently working on the duplication character bug and am planning to do a server maintenance today or tomorrow. (again if these bugs occur they are not hacking it is my fault and I'm sorry.)
